@@ -1,6 +1,9 @@
 # Value at Risk (VaR) Analysis: Historical Simulation & Monte Carlo VaR for TCS Equity
 ## Overview
 
+## Project Snapshot
+![VaR Project](var%20project.jpg)
+
 This project implements a complete Value-at-Risk (VaR) framework for Tata Consultancy Services (TCS.NS) using Microsoft Excel. Two industry-standard approaches—Historical Simulation and Monte Carlo Simulation—are applied to estimate one-day downside risk across multiple confidence levels. The Monte Carlo model is further validated using Kupiec's Proportion of Failures (POF) backtesting methodology.
 
 The analysis uses 245 trading days of TCS market data from February 2025 to February 2026.
